@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+} 
+div{
+   
+    
+    color: black;
+    background-color: rgb(126, 223, 223);
+   
+}
+ 
+
+h1{
+    
+    font-weight: bold;
+
+    font-style: italic;
+}
+p{
+    margin: 15px;
+}
+ul{
+     margin-left:25% ;
+     margin-right:25% ;
+     font-style: italic;
+     list-style-type: none;
+}
